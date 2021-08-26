@@ -19,5 +19,6 @@ The following **optional** features are implemented:
 * [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
 ## Video Walkthrough
-
+<img src="https://i.imgur.com/kH8vJGB.gif",
+     width=250 />
 Here's a walkthrough of implemented user stories:
